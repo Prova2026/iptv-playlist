@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="http://srvru.play-x.ru:7799/epg.xml.gz?q=eyJ1c2VySWQiOiJvbGdhcGFueWtvdmEifQ.q-kv8yP_FbBSzdl-l6FFbR9y0hpK8qmp3wsX6RqTORNq_XZ077mS_8UiLGjYdHyGt-rNtDPDuS0_0hUqViEVbw" description="Medium" size="Medium" background="#11609e"
+
+#EXTINF:-1 tvg-id="hlsproxy-5001" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 1 HD" group-title="Эротика Play-x",Play-x Наслаждение 1 HD
+http://srvru.play-x.ru:7799/channel/562cf665/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-5005" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 5 HD" group-title="Эротика Play-x",Play-x Наслаждение 5 HD
+http://srvru.play-x.ru:7799/channel/562ec7e1/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-5002" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 2 HD" group-title="Эротика Play-x",Play-x Наслаждение 2 HD
+http://srvru.play-x.ru:7799/channel/562d6ac4/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-5003" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 3 HD" group-title="Эротика Play-x",Play-x Наслаждение 3 HD
+http://srvru.play-x.ru:7799/channel/562ddf23/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="5004" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 4 HD" group-title="Эротика Play-x",Play-x Наслаждение 4 HD
+http://srvru.play-x.ru:7799/channel/562e5382/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="5006" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 6 HD" group-title="Эротика Play-x",Play-x Наслаждение 6 HD
+http://srvru.play-x.ru:7799/channel/562f3c40/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="hlsproxy-5007" tvg-logo="https://play-x.ru/logo.png" tvg-name="Play-x Наслаждение 7 HD" group-title="Эротика Play-x",Play-x Наслаждение 7 HD
+http://srvru.play-x.ru:7799/channel/562fb09f/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+
+#EXTINF:-1,Tviksel Кино 18+ HD
+http://ctmcinbk.ottclub.xyz/iptv/K96HCCYTDKSMB2/18075/index.m3u8
+#EXTINF:-1,Tviksel Кино 18+ International
+http://ctmcinbk.ottclub.xyz/iptv/K96HCCYTDKSMB2/18076/index.m3u8
+#EXTINF:-1,Yosso Sexy (18+)
+http://ctmcinbk.ottclub.xyz/iptv/K96HCCYTDKSMB2/14176/index.m3u8
+#EXTINF:-1,BCU Charm HD
+http://ctmcinbk.ottclub.xyz/iptv/K96HCCYTDKSMB2/18053/index.m3u8
+
