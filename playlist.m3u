@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="OLERO 21 Naturals" group-title="ХХХ",OLERO 21 Naturals
+http://138.16.142.113:2095/ext/xp-80d90db38f/8656/index.m3u8?token=72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17
 #EXTINF:-1 tvg-id="filmy_novyi_god_rus_4k" tvg-name="Clarity HD Новогодние RU" group-title="Clarity",Clarity HD Новогодние RU
 http://cdn.play-x.app:2095/filmy_novyi_god_rus_4k/index.m3u8?token=72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17
 #EXTINF:-1 tvg-id="angel_xxx_4K" tvg-name="Clarity4K Angel XXX" group-title="Clarity",Clarity4K Angel XXX
